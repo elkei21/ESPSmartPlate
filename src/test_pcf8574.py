@@ -1,4 +1,4 @@
-import pcf8574
+import lib.pcf8574
 import machine
 import var
 import time
